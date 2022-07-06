@@ -1,0 +1,10 @@
+.display-1{
+    color:blue;
+    text-align: center;
+}
+.button-reg{
+    margin-top: 5px;
+    width: 60px;
+    border-radius: 30%;
+    color:aqua;
+}
